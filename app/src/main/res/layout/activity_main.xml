@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="jp.tubes.pbp.jaguar.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="asa"
+            android:maxLength="120"
+            android:padding="16dp"
+            android:textColor="#181737"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="tata"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="mayla"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="febri"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/loginanak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login Anak" />
+
+    <Button
+        android:id="@+id/loginortu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login Orangtua" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="jundana"
+            android:maxLength="120"
+            android:padding="16dp"
+            android:textColor="#181737"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="chirzul"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#dad8d8" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="left"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:text="User &amp; pass"
+            android:textColor="#a2a1b8"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#0000"
+            android:gravity="right"
+            android:hint="dimas"
+            android:maxLength="12"
+            android:padding="16dp"
+            android:textColorHint="#181737"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
